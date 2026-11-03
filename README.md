@@ -6,7 +6,7 @@ A customer analytics and machine-learning project using Python, exploratory data
 
 This project analyzes a customer marketing dataset containing demographic information, income, product spending, purchase-channel activity, recency, and campaign-response fields. The workflow cleans the data, creates customer-level features, explores relationships and spending patterns, and applies K-Means clustering to group customers.
 
-The analysis was developed in Google Colab and exported as a PDF report. The exported report is included in [`docs/`](docs/Customer_Segmentation_Analysis - Colab).
+The analysis was developed in Google Colab and exported as a PDF report. The exported report is included in [`docs/`](Customer_Segmentation_Analysis - Colab.pdf).
 
 ## Objectives
 
